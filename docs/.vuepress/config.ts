@@ -45,26 +45,9 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             items: [
               { text: '《JavaSE笔记》', link: '/note/javase/'},
               { text: '《JavaWeb》笔记', link: '/note/javaweb/' },
-              { text: '《JavaScript高级程序设计》', link: '/note/js/' },
-              { text: '《ES6 教程》', link: '/note/es6/' },
-              { text: '《Vue》', link: '/note/vue/' },
-              { text: '《React》', link: '/note/react/' },
-              {
-                text: '《TypeScript 从零实现 axios》',
-                link: '/note/typescript-axios/',
-              },
-              {
-                text: '《Git》',
-                link: '/note/git/',
-              },
-              {
-                text: 'TypeScript',
-                link: '/pages/51afd6/',
-              },
-              {
-                text: 'JS设计模式总结',
-                link: '/pages/4643cd/',
-              },
+              { text: '《Maven》笔记', link: '/note/maven/'},
+              { text: '《Git》笔记', link: '/note/git/'},
+              { text: '《SSM》笔记', link: '/note/ssm/'},
             ],
           },
         ],
