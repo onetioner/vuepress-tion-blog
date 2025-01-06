@@ -49,6 +49,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '《Maven》笔记', link: '/note/maven/'},
               { text: '《Git》笔记', link: '/note/git/'},
               { text: '《SSM》笔记', link: '/note/ssm/'},
+              { text: '《MybatisPlus》笔记', link: '/note/mybatisplus/'},
               { text: '《ReggieTakeOut》笔记', link: '/note/reggietakeout/'},
               { text: '《MicroService》笔记', link: '/note/microservice/'},
             ],
