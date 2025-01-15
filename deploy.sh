@@ -10,7 +10,8 @@ dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 push_branch=gh-pages # 推送的分支
 
 # 生成静态文件 windows要加build:win
-npm run build:win
+#npm run build:win
+npm run build
 
 # 进入生成的文件夹
 cd $dist_path
