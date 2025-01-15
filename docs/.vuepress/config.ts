@@ -52,6 +52,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '《MybatisPlus》笔记', link: '/note/mybatisplus/'},
               { text: '《ReggieTakeOut》笔记', link: '/note/reggietakeout/'},
               { text: '《MicroService》笔记', link: '/note/microservice/'},
+              { text: '《XueChengPlus》笔记', link: '/note/xuechengplus/'},
             ],
           },
         ],
