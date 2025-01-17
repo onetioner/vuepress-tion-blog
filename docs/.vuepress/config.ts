@@ -53,6 +53,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '《ReggieTakeOut》笔记', link: '/note/reggietakeout/'},
               { text: '《MicroService》笔记', link: '/note/microservice/'},
               { text: '《XueChengPlus》笔记', link: '/note/xuechengplus/'},
+              { text: '《Flume》笔记', link: '/note/flume/'},
+              { text: '《Python》笔记', link: '/note/python/'}
             ],
           },
         ],
