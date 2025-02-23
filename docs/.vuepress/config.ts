@@ -55,7 +55,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '《XueChengPlus》笔记', link: '/note/xuechengplus/'},
               { text: '《Flume》笔记', link: '/note/flume/'},
               { text: '《Python》笔记', link: '/note/python/'},
-              { text: '《Scala》笔记', link: '/note/scala/'}
+              { text: '《Scala》笔记', link: '/note/scala/'},
+              { text: '《Linux》笔记', link: '/note/linux/'},
             ],
           },
         ],
