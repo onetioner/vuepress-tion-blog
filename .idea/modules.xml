@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vuepress-theme-vdoing.iml" filepath="$PROJECT_DIR$/.idea/vuepress-theme-vdoing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vuepress-tion-blog.iml" filepath="$PROJECT_DIR$/.idea/vuepress-tion-blog.iml" />
     </modules>
   </component>
 </project>
