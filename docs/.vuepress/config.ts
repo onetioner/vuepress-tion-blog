@@ -58,6 +58,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '《Scala》笔记', link: '/note/scala/'},
               { text: '《Linux》笔记', link: '/note/linux/'},
               { text: '《Hadoop》笔记', link: '/note/hadoop/'},
+              { text: '《Java设计模式》笔记', link: '/note/designpatterns/'},
+              { text: '《HTML-CSS-WEB》笔记', link: '/note/htmlcssweb/'},
             ],
           },
         ],
