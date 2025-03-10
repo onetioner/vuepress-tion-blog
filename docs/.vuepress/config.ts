@@ -60,6 +60,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '《Hadoop》笔记', link: '/note/hadoop/'},
               { text: '《Java设计模式》笔记', link: '/note/designpatterns/'},
               { text: '《HTML-CSS-WEB》笔记', link: '/note/htmlcssweb/'},
+              { text: '《程序设计入门-C语言》笔记', link: '/note/c/'},
             ],
           },
         ],
